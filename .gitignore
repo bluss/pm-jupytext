@@ -12,3 +12,4 @@ wheels/
 # jupyter
 .virtual_documents/
 .ipynb_checkpoints/
+*.ipynb
